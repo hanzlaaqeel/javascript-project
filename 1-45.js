@@ -414,4 +414,3 @@ let make_car = (manufacturer, model, ...optionalFeature) => {
 }
 make_car('honda', 'honda civic 22', 'white')
 make_car('chevrolet', 'camaro', 'orange', 'modified')
-
